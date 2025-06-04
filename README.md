@@ -95,13 +95,9 @@ This program addresses the facilitation of encoding and decoding barcodes, speci
 Java Documents are visible using a local server on the machine. You must have at least the doc folder on your local machine. To access them:
 1. Open a terminal
 2. Navigate to the `doc/` directory
-   ```bash
-   cd path\to\the\project\doc
-   ```
+   ```cd path\to\the\project\doc```
 3. Start a local server:
-   ```bash
-   python -m http.server 8000
-   ```
+   ```python -m http.server 8000```
 4. Open your browser and vist:
    ```http://localhost:8000/package-summary.html```
  
