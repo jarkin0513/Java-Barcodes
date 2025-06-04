@@ -102,8 +102,7 @@ Java Documents are visible using a local server on the machine. You must have at
    ```http://localhost:8000/package-summary.html```
  
 [Java Docs can be accessed here!](https://github.com/jarkin0513/Java-Barcodes/blob/main/doc/package-summary.html) 
- 
-(Please keep in mind that this link will not work but you can find these docs by selecting the doc folder, finding the index.html, right click this -> Open in -> Browser)
+
 
 ## User Documentation
 <dl>
