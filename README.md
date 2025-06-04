@@ -103,7 +103,7 @@ Java Documents are visible using a local server on the machine. You must have at
    python -m http.server 8000
    ```
 4. Open your browser and vist:
-   ```http://localhost:8000/index.html```
+   ```http://localhost:8000/package-summary.html```
  
 [Java Docs can be accessed here!](https://github.com/jarkin0513/Java-Barcodes/blob/main/doc/package-summary.html) 
  
