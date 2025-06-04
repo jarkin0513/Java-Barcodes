@@ -175,4 +175,4 @@ Java Documents are visible using a local server on the machine. You must have at
 </dl>
 
 ## Source Code
-[Click here to view the source code](https://class-git.engineering.uiowa.edu/swd2023fall/jarkin/-/tree/main/oral_exam1/JUnit/src)
+[Click here to view the source code](https://github.com/jarkin0513/Java-Barcodes/tree/main/src)
