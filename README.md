@@ -4,6 +4,8 @@ This program addresses the facilitation of encoding and decoding barcodes, speci
 <br> The UPCA encoding handles the input of an 11 digit UPCA product code into a 95 digit long binary representation. The UPCA decoding handles turning a 95 digit long binary representation back into its UPCA product code format. </br>
 <br> The QR code generator allows for users to input a URL and see the generated QR code for the associated URL displayed within the application window. </br>
 
+> **Note**: This project was originally part of a private GitLab repository and has been migrated to GitHub as an independent repository. As a result, the commit history starts from the migration point.
+
 ## Developer Documentation
 <dl>
 <dt> POSTNET and UPCA Encoder / Decoder </dt>
