@@ -92,13 +92,22 @@ This program addresses the facilitation of encoding and decoding barcodes, speci
 
 
 ## JavaDocs
-<dl>
-Java Documents are visible using a local server on the machine. You must have at least the doc folder on your local machine. To access them, please open a terminal and access the directory where the source code is located. Then enter the command "python -m http.server" in command line so to start the local server inside of that directory. 
+Java Documents are visible using a local server on the machine. You must have at least the doc folder on your local machine. To access them:
+1. Open a terminal
+2. Navigate to the `doc/` directory
+   ```bash
+   cd path\to\the\project\doc
+   ```
+3. Start a local server:
+   ```bash
+   python -m http.server 8000
+   ```
+4. Open your browser and vist:
+   ```http://localhost:8000/index.html```
  
 [Java Docs can be accessed here!](https://github.com/jarkin0513/Java-Barcodes/blob/main/doc/package-summary.html) 
  
 (Please keep in mind that this link will not work but you can find these docs by selecting the doc folder, finding the index.html, right click this -> Open in -> Browser)
-</dl>
 
 ## User Documentation
 <dl>
