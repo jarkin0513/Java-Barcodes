@@ -186,3 +186,7 @@ Java Documents are visible using a local server on the machine. You must have at
 
 ## Source Code
 [Click here to view the source code](https://github.com/jarkin0513/Java-Barcodes/tree/main/src)
+
+## License Notice
+This project uses [ZXing](https://github.com/zxing/zxing) for QR code generation, licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0).
+
